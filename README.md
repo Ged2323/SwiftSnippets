@@ -1,5 +1,5 @@
-# SwiftSnippets 4.0
-Learn the basics of Swift 4.0
+# SwiftSnippets 4.1
+Learn the basics of Swift 4.1
 
 I'm compiling all the helpful code that will help you build some super slick games and apps.
 
