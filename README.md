@@ -8,10 +8,3 @@ Please check out [uplearnedu.com](https://uplearnedu.com/) for some other siwft 
 
 All the best!
 
-
-The 1-4 Add Button Project has a video to show how to do it.  
-If you'd like to get more videos with me speaking check out the demo videos in other courses.
-Cheers Beers!
-
-[Donations welcomed. :) ](https://paypal.me/GerardGrundy)
-
