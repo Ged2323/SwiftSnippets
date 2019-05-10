@@ -13,7 +13,7 @@ class ViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let button = UIBarButtonItem(barButtonSystemItem: UIBarButtonSystemItem.add,
+        let button = UIBarButtonItem(barButtonSystemItem: UIBarButtonItem.SystemItem.add,
                                      target: self,
                                      action: #selector(ViewController.addButton))
         navigationItem.rightBarButtonItem = button
